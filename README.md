@@ -22,6 +22,8 @@ Este proyecto utiliza el proceso CRISP-DM para explorar, analizar y modelar dato
 ├── data
 │   ├── raw                  # Datos originales sin modificar (CSV)
 │   └── processed            # Datos limpios y transformados
+├── docs
+│   ├── index.md             # Resultados
 ├── notebooks
 │   └── EDA_and_Modeling.ipynb  # Notebook con exploración, limpieza y modelado
 ├── src                      # Módulos y funciones auxiliares (si aplica)
