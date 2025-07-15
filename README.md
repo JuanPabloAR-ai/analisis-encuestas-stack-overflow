@@ -8,7 +8,7 @@ Este proyecto utiliza el proceso CRISP-DM para explorar, analizar y modelar dato
 - Ubicación: `data/raw/`
 
 ## Tecnologías y Bibliotecas
-- Python 3.x
+- Python 3.11.5
 - pandas
 - numpy
 - matplotlib
@@ -32,8 +32,4 @@ Este proyecto utiliza el proceso CRISP-DM para explorar, analizar y modelar dato
 ## Resumen de Resultados
 (Se completará una vez finalizado el análisis y el modelado.)
 
-## Agradecimientos
-- Curso intensivo de Data Science de Google Cloud
-- Fuente de datos: Encuesta de desarrolladores de Stack Overflow
-- Recursos consultados: StackOverflow, documentación oficial de bibliotecas Python
 
